@@ -124,7 +124,7 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: transparent;
+  background-color: black;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 
 }
@@ -344,11 +344,11 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 98%;
 }
 
 .skills__css {
-  width: 85%;
+  width: 90%;
 }
 
 .skills__js {
@@ -410,7 +410,7 @@ img {
 
 /* ===== FOOTER =====*/
 .footer {
-  /* background-color: var(--second-color); */
+
   background-color: black;
 
 
@@ -579,7 +579,10 @@ img {
   .bd-grid {
     margin-left: auto;
     margin-right: auto;
+    color: white;
   }
+
+
 
   .home {
     padding: 10rem 0 2rem;
